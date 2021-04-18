@@ -2,5 +2,6 @@
   <component name="PrintSettings">
     <option name="printScope" value="1" />
     <option name="COLOR_PRINTING" value="true" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
   </component>
 </application>
