@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="minimum_program.b314" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
       <mapping ext="b314" type="PLAIN_TEXT" />
     </extensionMap>
